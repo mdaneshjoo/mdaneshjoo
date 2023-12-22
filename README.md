@@ -1,4 +1,4 @@
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/647375fac4ec366ad5b0410c?variant=dark&roadmaps=react-native%2Csoftware-architect)](https://roadmap.sh)
+🔭 I’m currently working on new Project
 <!--
 **mdaneshjoo/mdaneshjoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
